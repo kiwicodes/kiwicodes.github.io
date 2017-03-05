@@ -7,12 +7,12 @@ h1, p {
   text-align: center;
   margin: auto;
   width: 50%;
-  padding: 70px 0px;
 }
 
 h1 {
   font-size: 60px;
   color: #9b59b6;
+  padding: 70px 0px;
 }
 
 p {
