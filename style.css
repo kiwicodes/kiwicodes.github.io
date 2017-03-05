@@ -4,13 +4,15 @@ body {
 
 h1, p {
   font-family: Arial, sans-serif;
-  color: #bdc3c7;
+  text-align: center;
 }
 
 h1 {
   font-size: 30px;
+  color: #8e44ad;
 }
 
 p {
   font-size 16px;
+   color: #bdc3c7;
 }
