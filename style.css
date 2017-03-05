@@ -1,6 +1,6 @@
 body {
-  background-color: #FFF;
-  background: -webkit-linear-gradient(#bdc3c7, #2c3e50);
+  background: #FFF -webkit-linear-gradient(#ecf0f1, #9b59b6) no-repeat top right;
+  background-attachment: fixed;
 }
 
 h1, p {
