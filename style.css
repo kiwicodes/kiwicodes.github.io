@@ -1,6 +1,8 @@
 body {
   background-color: #FFF;
   background-image: -webkit-linear-gradient(#bdc3c7, #2c3e50);
+  margin: 0;
+  padding: 0;
 }
 
 h1, p {
