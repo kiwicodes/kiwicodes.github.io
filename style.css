@@ -3,6 +3,14 @@ body {
 }
 
 h1, p {
-  font-family: Arial;
-  font-color: #3498db;
+  font-family: Arial, sans-serif;
+  color: #bdc3c7;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+p {
+  font-size 16px;
 }
