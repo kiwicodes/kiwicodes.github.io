@@ -1,5 +1,6 @@
 body {
-  background-color: #34495e;
+  background-color: #FFF;
+  background-image: -webkit-linear-gradient(#bdc3c7, #2c3e50);
 }
 
 h1, p {
