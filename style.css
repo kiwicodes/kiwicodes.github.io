@@ -1,7 +1,6 @@
 body {
   background-color: #FFF;
-  background-image: -webkit-linear-gradient(#bdc3c7, #2c3e50);
-  background-repeat: no-repeat;
+  background: -webkit-linear-gradient(#bdc3c7, #2c3e50) no-repeat 100% 100%;
 }
 
 h1, p {
