@@ -1,38 +1,30 @@
+/* Imports */
+/* Colors */
+/* Borders */
+@import url("https://fonts.googleapis.com/css?family=Muli:200|Open+Sans:600");
+body, .title {
+  background-image: url("assets/noise.png");
+  background-repeat: repeat;
+  background-blend-mode: multiply; }
+
 body {
   background-color: #5F666C;
-  background-attachment: fixed;
-}
-
-h1 {
-  font-family: 'Francois One', sans-serif;
-  font-weight: 400;
-  text-transform: uppercase;
-  font-size: 90px;
-  color: #61358B;
-  text-shadow: -1px 1px 0 rgba(0, 0, 0, 0.5);
-  text-align: center;
-  position: relative;
-  top: 0px;
-}
+  background-attachment: fixed; }
 
 .title {
   background-color: #3F4246;
   border-bottom: solid 5px #A380B3;
   position: fixed;
-  box-shadow: 0 1px 0 rgba(109, 71, 125, 1);
+  box-shadow: 0 1px 0 #6d477d;
   left: 0;
   top: 0px;
   width: 100%;
   height: 6%;
-  z-index: 6969;
-}
+  z-index: 6969; }
+  .title h1 {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    position: relative;
+    top: 0px; }
 
-body, .title {
-  background-image: url("assets/noise.png");
-  background-repeat: repeat;
-  background-blend-mode: overlay;
-}
-
-.navigation {
-
-}
+/*# sourceMappingURL=style.css.map */

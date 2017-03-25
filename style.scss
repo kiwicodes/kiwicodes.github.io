@@ -1,0 +1,29 @@
+/* Imports */
+@import "helpers/variables";
+@import "helpers/placeholder";
+@import url('https://fonts.googleapis.com/css?family=Muli:200|Open+Sans:600');
+
+body {
+	 background-color: #5F666C;
+   background-attachment: fixed;
+   @extend %noise;
+}
+
+.title {
+    background-color: #3F4246;
+    border-bottom: solid 5px #A380B3;
+    position: fixed;
+    box-shadow: 0 1px 0 rgba(109, 71, 125, 1);
+    left: 0;
+    top: 0px;
+    width: 100%;
+    height: 6%;
+    z-index: 6969;
+    @extend %noise;
+      h1 {
+        font-family: 'Open Sans', sans-serif;
+        text-align: center;
+        position: relative;
+        top: 0px;
+      }
+    }
